@@ -1,1 +1,1 @@
-# coinsentiment-analysis
+# coinsentiment-analysis using twitter API and data from coinmarketcap API
